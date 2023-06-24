@@ -1,3 +1,5 @@
-window.addEventListener("load", function() {
-    console.log("window is loaded")
-});
+
+
+window.onload = (event) => {
+    console.log("window is loaded");
+}
